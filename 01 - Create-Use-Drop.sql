@@ -1,11 +1,10 @@
-
--- crear base de datos
--- utf8 para palabras en México (con la ñ)
+-- create a database
+-- utf8 for words in Mexico (with the ñ)
 create database prueba1;
 
--- para cambiar de contexto
--- utilizamos 'use'
+-- to change the context
+-- we use 'use'
 use prueba2;
 
--- borrar base de datos
+-- delete the database
 drop database prueba1;
