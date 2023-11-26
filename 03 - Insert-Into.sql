@@ -1,16 +1,15 @@
 use prueba2;
 
--- para copiar los campos
-describe tabla1;
+-- to copy the fields
+describe table1;
 
--- añadir un registro a la tabla1
-insert into tabla1 (nombre,
-					cartera,
-                    comentarios,
-                    fecha)
-			values ('Miguel',
-					55000.4,
-                    'Buen cliente',
-                    '2023-05-11');
-
+-- add a record to table1
+insert into table1 (	name,
+			wallet,
+			comments,
+			date)
+	values ('Miguel',
+		55000.4,
+		'Good customer',
+		'2023-05-11');
 
