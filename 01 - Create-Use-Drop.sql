@@ -8,3 +8,6 @@ use prueba2;
 
 -- delete the database
 drop database prueba1;
+
+
+
